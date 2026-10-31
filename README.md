@@ -1,5 +1,6 @@
-<img width="3440" height="1440" alt="ペルソナ２　罪 2026-10-31-19-20-51" src="https://github.com/user-attachments/assets/cb192640-586a-4e35-b6c1-b605f9f247ce" />
 <img width="3440" height="1440" alt="ペルソナ２　罪 2026-10-31-19-20-45" src="https://github.com/user-attachments/assets/abae9edc-6479-412e-9696-02dd11c8abf6" />
+<img width="3440" height="1440" alt="ペルソナ２　罪 2026-10-31-19-20-51" src="https://github.com/user-attachments/assets/cb192640-586a-4e35-b6c1-b605f9f247ce" />
+
 
 # Persona 2: Tsumi (PlayStation, Japão) — Tradução PT-BR v1.0.4
 
