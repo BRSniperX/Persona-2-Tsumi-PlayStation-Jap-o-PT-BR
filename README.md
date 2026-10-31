@@ -1,10 +1,9 @@
-<img width="3440" height="1440" alt="ペルソナ２　罪 2026-10-25-12-25-49" src="https://github.com/user-attachments/assets/f45ce263-3893-4b1f-a619-ed625d83436a" />
+<img width="3440" height="1440" alt="ペルソナ２　罪 2026-10-31-19-20-51" src="https://github.com/user-attachments/assets/cb192640-586a-4e35-b6c1-b605f9f247ce" />
+<img width="3440" height="1440" alt="ペルソナ２　罪 2026-10-31-19-20-45" src="https://github.com/user-attachments/assets/abae9edc-6479-412e-9696-02dd11c8abf6" />
 
-
-# Persona 2: Tsumi (PlayStation, Japão) — Tradução PT-BR v1.0.3
+# Persona 2: Tsumi (PlayStation, Japão) — Tradução PT-BR v1.0.4
 
 Tradução completa do **Persona 2: Tsumi** (ペルソナ2 罪, «Innocent Sin») japonês de PlayStation para o português do Brasil, feita a partir do texto japonês original por **BRSniperX**.
-
 
 ## O tamanho do trabalho
 
@@ -64,6 +63,7 @@ O passo a passo completo está no `LEIA-ME.txt`. Os hashes estão em `SHA256SUMS
 
 ## Novidades
 
+- **v1.0.4**: na batalha, a descrição de 121 magias e magias de fusão tinha uma linha a mais, que ficava por cima do nome da Persona e do custo de SP: agora cada descrição cabe na caixa. No contato com demônios, 38 respostas de escolha que passavam da borda da caixa foram encurtadas.
 - **v1.0.3**: nas batalhas, a descrição das magias, das magias de fusão e dos itens e o perfil dos personagens (Status) apareciam em japonês: corrigido. Sobrenomes longos não invadem mais o nome no Status. Fala do Eikichi no contato ajustada para o erro dele soar intencional ("Há males que vêm a cavalo"... hã?).
 - **v1.0.2**: texto revisado. Mais duas leituras completas da história, dos NPCs e da cidade; cerca de 220 falas reescritas para soar mais naturais em português.
 - **v1.0.1**: corrigido o travamento ao falar com um aluno no pátio do 1º andar do Colégio Sete Irmãs (capítulo 1).
@@ -71,11 +71,12 @@ O passo a passo completo está no `LEIA-ME.txt`. Os hashes estão em `SHA256SUMS
 
 ## Como atualizar
 
-Aplique a v1.0.3 na imagem **original** do jogo japonês (.bin/.cue, SLPS-02100), como nas versões anteriores: extraia o zip, coloque o `.bin` na pasta e rode o `APLICAR_PATCH.bat`. O patch não se aplica sobre a imagem já traduzida. Os saves do cartão de memória continuam valendo.
+Aplique a v1.0.4 na imagem **original** do jogo japonês (.bin/.cue, SLPS-02100), como nas versões anteriores: extraia o zip, coloque o `.bin` na pasta e rode o `APLICAR_PATCH.bat`. O patch não se aplica sobre a imagem já traduzida. Os saves do cartão de memória continuam valendo.
 
-Arquivos: `Persona2-Tsumi-PTBR-v1.0.3.zip` · `LEIA-ME.txt` · `SHA256SUMS.txt` (`sha256sum -c SHA256SUMS.txt`).
+Arquivos: `Persona2-Tsumi-PTBR-v1.0.4.zip` · `LEIA-ME.txt` · `SHA256SUMS.txt` (`sha256sum -c SHA256SUMS.txt`).
 
 ---
+
 
 
 ## Créditos
