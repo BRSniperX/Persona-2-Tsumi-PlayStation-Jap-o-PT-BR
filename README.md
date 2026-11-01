@@ -2,7 +2,7 @@
 <img width="3440" height="1440" alt="ペルソナ２　罪 2026-10-31-19-20-51" src="https://github.com/user-attachments/assets/cb192640-586a-4e35-b6c1-b605f9f247ce" />
 
 
-# Persona 2: Tsumi (PlayStation, Japão) — Tradução PT-BR v1.0.4
+# Persona 2: Tsumi (PlayStation, Japão) — Tradução PT-BR v1.0.5
 
 Tradução completa do **Persona 2: Tsumi** (ペルソナ2 罪, «Innocent Sin») japonês de PlayStation para o português do Brasil, feita a partir do texto japonês original por **BRSniperX**.
 
@@ -64,21 +64,24 @@ O passo a passo completo está no `LEIA-ME.txt`. Os hashes estão em `SHA256SUMS
 
 ## Novidades
 
+- **v1.0.5**: na Sala de Veludo, as 150 falas de apresentação das Personas (ao invocar) estavam em japonês: agora estão em português. Escolhas da história com 4 opções: algumas respostas passavam por cima da vizinha e foram encurtadas. Mapas: placas da última sala de cada mapa e dois nomes de local em PT. Lojas: 10 descrições de item cabem na caixa; «Na bolsa» → «Possui», «Não equipa» → «Não usa». Restaurante: o efeito da comida mostra «FOR» (era «STR»). **Novo: patch .xdelta** para Android/Mac/Linux.
 - **v1.0.4**: na batalha, a descrição de 121 magias e magias de fusão tinha uma linha a mais, que ficava por cima do nome da Persona e do custo de SP: agora cada descrição cabe na caixa. No contato com demônios, 38 respostas de escolha que passavam da borda da caixa foram encurtadas.
-- **v1.0.3**: nas batalhas, a descrição das magias, das magias de fusão e dos itens e o perfil dos personagens (Status) apareciam em japonês: corrigido. Sobrenomes longos não invadem mais o nome no Status. Fala do Eikichi no contato ajustada para o erro dele soar intencional ("Há males que vêm a cavalo"... hã?).
+- **v1.0.3**: nas batalhas, a descrição das magias, das magias de fusão e dos itens e o perfil dos personagens (Status) apareciam em japonês: corrigido. Sobrenomes longos não invadem mais o nome no Status. Fala do Eikichi no contato ajustada para o erro dele soar intencional.
 - **v1.0.2**: texto revisado. Mais duas leituras completas da história, dos NPCs e da cidade; cerca de 220 falas reescritas para soar mais naturais em português.
 - **v1.0.1**: corrigido o travamento ao falar com um aluno no pátio do 1º andar do Colégio Sete Irmãs (capítulo 1).
 - **v1.0**: primeira versão pública.
 
 ## Como atualizar
 
-Aplique a v1.0.4 na imagem **original** do jogo japonês (.bin/.cue, SLPS-02100), como nas versões anteriores: extraia o zip, coloque o `.bin` na pasta e rode o `APLICAR_PATCH.bat`. O patch não se aplica sobre a imagem já traduzida. Os saves do cartão de memória continuam valendo.
+**Windows:** aplique a v1.0.5 na imagem **original** do jogo japonês (.bin/.cue, SLPS-02100), como nas versões anteriores: extraia o `Persona2-Tsumi-PTBR-v1.0.5.zip`, coloque o `.bin` na pasta e rode o `APLICAR_PATCH.bat`.
 
-Arquivos: `Persona2-Tsumi-PTBR-v1.0.4.zip` · `LEIA-ME.txt` · `SHA256SUMS.txt` (`sha256sum -c SHA256SUMS.txt`).
+**Android, Mac, Linux:** use o `Persona2-Tsumi-PTBR-v1.0.5-xdelta.zip` (UniPatch, xdelta3, Delta Patcher, ROM Patcher JS). O .xdelta só funciona no dump exato (SHA-1 `87da7209fe29bd16bda1b7d76c023660f957ac73`); o passo a passo está no `LEIA-ME_XDELTA.txt` de dentro do zip, junto com o `.cue` pronto.
+
+O patch não se aplica sobre a imagem já traduzida. Os saves do cartão de memória continuam valendo.
+
+Arquivos: `Persona2-Tsumi-PTBR-v1.0.5.zip` · `Persona2-Tsumi-PTBR-v1.0.5-xdelta.zip` · `LEIA-ME.txt` · `SHA256SUMS.txt` (`sha256sum -c SHA256SUMS.txt`).
 
 ---
-
-
 
 ## Créditos
 
